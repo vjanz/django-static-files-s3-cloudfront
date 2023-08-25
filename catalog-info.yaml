@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: django-static-files-s3-cloudfront
+  annotations:
+    github.com/project-slug: vjanz/django-static-files-s3-cloudfront
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
